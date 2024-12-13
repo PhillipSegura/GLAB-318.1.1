@@ -1,0 +1,16 @@
+{
+  "name": "2024-11-21-imports-exports",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
